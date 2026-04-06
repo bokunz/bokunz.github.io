@@ -5,17 +5,33 @@ permalink: /alpha-transition-99/
 author_profile: true
 sitemap: false
 ---
+# Action
+## Timeline
+4/5 - 4/15
+4/15 - 4/25
+4/25 - 5/5
+5/5 - 5/15
+5/15 - 5/30
 
-### 🏁 WashU 离职阶段 (Deadline: 2026-06-30)
-* [x] **确定日期:** 最后一天定为 6 月 30 日。
-* [ ] **租约管理:** 沟通公寓转租/退租事宜。
-* [ ] **实验交接:** 整理所有的 Fab 流程文档和原始数据。
-* [ ] **设备清理:** 归还实验室器材及清理办公位。
-* [ ] **This is a test text**
+## To-do
+### 🚀 下一站准备 (Path A)
+- [ ] 更新护照
+- [ ] 更新portfolio
+- [ ] 更新personal website
+- [ ] 更新CV & Resume - add keywords
+- [ ] 更新search list
+- [ ] 准备emails
 
-### 🚀 下一站准备 (Path A/C)
-* [ ] **Portfolio:** 更新个人主页上的项目展示（公开版）。
-* [ ] **Visa/Legal:** 检查身份转换或搬家相关的法律文件。
+# Brainstrom
+## Decision
+- focus on this round of FAB 4/5-4/15 + 4/25-5/5
+- get PDK and FAB results ready
+- find next stop ASAP, preferably by 5/30
+- latest last day: 6/30
+- **get rid of MO APT by 7/10**
+- start the new position before **8/1**
+
+## Guideline
 
 ---
-*Confidential Log - Internal Use Only*
+
