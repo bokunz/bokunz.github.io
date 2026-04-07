@@ -11,34 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Materials Science, Oregon State University, 2024 (Corvallis, OR)
+* M.S. in Materials Science, Oregon State University, 2020 (Corvallis, OR)
+* B.S. in Physics, Northwest University, 2015 (Xi'an, China)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023: Materials Interface Research/Engineering Intern
+  * FormFactor, Inc
+  * Livermore, CA
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015-2016: CVD Engineer
+  * Samsung China Semiconductor
+  * Xi'an, China
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Materials Deposition, Surface Functionalization and Characterization
+* Device Development
+  * Design
+  * Simulation
+  * Fabrication
+  * Test and Characterization
+  * Assembly and Packaging
 * Skill 3
 
 Publications
